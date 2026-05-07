@@ -1,4 +1,4 @@
-# FAQ Chatbot Project Description
+
 
 This project is a simple FAQ Chatbot developed using Python, NLTK, and Machine Learning techniques. The chatbot is designed to answer user questions by matching them with the most relevant frequently asked questions stored in the system.
 
